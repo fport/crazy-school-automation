@@ -1,0 +1,48 @@
+G:\OgrenciOtomasyonu\OgrenciOtomasyonu\bin\Debug\OgrenciOtomasyonu.exe.config
+G:\OgrenciOtomasyonu\OgrenciOtomasyonu\bin\Debug\OgrenciOtomasyonu.exe
+G:\OgrenciOtomasyonu\OgrenciOtomasyonu\bin\Debug\OgrenciOtomasyonu.pdb
+G:\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.csprojAssemblyReference.cache
+G:\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.Login.LoginPage.resources
+G:\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.Properties.Resources.resources
+G:\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.csproj.GenerateResource.cache
+G:\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.csproj.CoreCompileInputs.cache
+G:\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.exe
+G:\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.pdb
+G:\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.MainMenu.HomePage.resources
+G:\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.User.UserAdd.resources
+G:\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.User.UserUpdate.resources
+G:\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.Student.StudentAdd.resources
+C:\Users\porti\Desktop\OgrenciOtomasyonu (2)\OgrenciOtomasyonu\OgrenciOtomasyonu\bin\Debug\OgrenciOtomasyonu.exe.config
+C:\Users\porti\Desktop\OgrenciOtomasyonu (2)\OgrenciOtomasyonu\OgrenciOtomasyonu\bin\Debug\OgrenciOtomasyonu.exe
+C:\Users\porti\Desktop\OgrenciOtomasyonu (2)\OgrenciOtomasyonu\OgrenciOtomasyonu\bin\Debug\OgrenciOtomasyonu.pdb
+C:\Users\porti\Desktop\OgrenciOtomasyonu (2)\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.csprojAssemblyReference.cache
+C:\Users\porti\Desktop\OgrenciOtomasyonu (2)\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.Login.LoginPage.resources
+C:\Users\porti\Desktop\OgrenciOtomasyonu (2)\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.MainMenu.HomePage.resources
+C:\Users\porti\Desktop\OgrenciOtomasyonu (2)\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.Properties.Resources.resources
+C:\Users\porti\Desktop\OgrenciOtomasyonu (2)\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.Student.StudentAdd.resources
+C:\Users\porti\Desktop\OgrenciOtomasyonu (2)\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.User.UserAdd.resources
+C:\Users\porti\Desktop\OgrenciOtomasyonu (2)\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.User.UserUpdate.resources
+C:\Users\porti\Desktop\OgrenciOtomasyonu (2)\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.csproj.GenerateResource.cache
+C:\Users\porti\Desktop\OgrenciOtomasyonu (2)\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\porti\Desktop\OgrenciOtomasyonu (2)\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.exe
+C:\Users\porti\Desktop\OgrenciOtomasyonu (2)\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.pdb
+C:\Users\porti\Desktop\OgrenciOtomasyonu (2)\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.Student.StudentsUpdate.resources
+C:\Users\porti\source\repos\OgrenciOtomasyonu\OgrenciOtomasyonu\bin\Debug\OgrenciOtomasyonu.exe.config
+C:\Users\porti\source\repos\OgrenciOtomasyonu\OgrenciOtomasyonu\bin\Debug\OgrenciOtomasyonu.exe
+C:\Users\porti\source\repos\OgrenciOtomasyonu\OgrenciOtomasyonu\bin\Debug\OgrenciOtomasyonu.pdb
+C:\Users\porti\source\repos\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.Login.LoginPage.resources
+C:\Users\porti\source\repos\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.MainMenu.HomePage.resources
+C:\Users\porti\source\repos\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.Properties.Resources.resources
+C:\Users\porti\source\repos\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.Student.StudentAdd.resources
+C:\Users\porti\source\repos\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.Student.StudentsUpdate.resources
+C:\Users\porti\source\repos\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.User.UserAdd.resources
+C:\Users\porti\source\repos\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.User.UserUpdate.resources
+C:\Users\porti\source\repos\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.csproj.GenerateResource.cache
+C:\Users\porti\source\repos\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\porti\source\repos\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.exe
+C:\Users\porti\source\repos\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.pdb
+C:\Users\porti\source\repos\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.Student.StudentDelete.resources
+C:\Users\porti\source\repos\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.csprojAssemblyReference.cache
+C:\Users\porti\source\repos\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.Student.OgrenciTablo.resources
+C:\Users\porti\source\repos\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.User.Tablo.resources
+C:\Users\porti\source\repos\OgrenciOtomasyonu\OgrenciOtomasyonu\obj\Debug\OgrenciOtomasyonu.User.UserDelete.resources
